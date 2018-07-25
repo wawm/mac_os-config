@@ -17,6 +17,7 @@ brew cask install handbrakebatch
 brew cask install imageoptim
 brew cask install istat-menus
 brew cask install iterm2
+brew cask install intel-power-gadget
 brew cask install keybase
 brew cask install ksdiff
 brew cask install marp
